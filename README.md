@@ -13,3 +13,5 @@ A repo is a github repository, and you can choose to make it public or private. 
 
 ## Commit
 Commit is essentially a save for your file, and in every commit it had a note associated with it and it's helpful for when you are doing things like collaborating with another person to tell them the changes made, for what reason, etc. Commit allows for Github to show you your history and each commit has a unique identifier for it.
+
+Reviewed by Rain
